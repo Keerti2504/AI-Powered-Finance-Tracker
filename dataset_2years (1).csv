@@ -1,0 +1,855 @@
+Date,Category,Sub-category,Transaction Type,Income,Expense,Payment Method,DayOfWeek,Balance
+01-01-2022,Salary,Salary,Income,65000.0,0.0,UPI,Saturday,65000.0
+04-01-2022,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Tuesday,62600.0
+04-01-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,500.0,Cash,Tuesday,62100.0
+04-01-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,UPI,Tuesday,55000.0
+04-01-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,Debit Card,Tuesday,54300.0
+05-01-2022,Accessories,Accessories,Expense,0.0,1800.0,Cash,Wednesday,52500.0
+05-01-2022,Movies,Movies,Expense,0.0,700.0,Cash,Wednesday,51800.0
+05-01-2022,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Wednesday,50600.0
+07-01-2022,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Cash,Friday,49400.0
+08-01-2022,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Saturday,46400.0
+08-01-2022,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Saturday,44900.0
+10-01-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Monday,43700.0
+10-01-2022,House Repairs,House Repairs,Expense,0.0,1200.0,Cash,Monday,42500.0
+11-01-2022,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Tuesday,39500.0
+14-01-2022,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Friday,38300.0
+14-01-2022,Electronics,Electronics,Expense,0.0,4700.0,Debit Card,Friday,33600.0
+15-01-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Cash,Saturday,32700.0
+15-01-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,Cash,Saturday,32200.0
+16-01-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,UPI,Sunday,31600.0
+18-01-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,UPI,Tuesday,30900.0
+19-01-2022,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Wednesday,30500.0
+20-01-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Thursday,29900.0
+21-01-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Cash,Friday,28100.0
+22-01-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,Cash,Saturday,27600.0
+22-01-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Debit Card,Saturday,27300.0
+22-01-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,Debit Card,Saturday,26400.0
+23-01-2022,Clothes,Clothes,Expense,0.0,2400.0,Debit Card,Sunday,24000.0
+23-01-2022,Fuel,Fuel,Expense,0.0,2900.0,Cash,Sunday,21100.0
+24-01-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Monday,18100.0
+27-01-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,Debit Card,Thursday,17500.0
+28-01-2022,Taxi,Taxi,Expense,0.0,1800.0,Cash,Friday,15700.0
+29-01-2022,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Saturday,12700.0
+31-01-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Monday,12100.0
+31-01-2022,Rent,Rent,Expense,0.0,8800.0,UPI,Monday,3300.0
+31-01-2022,Taxi,Taxi,Expense,0.0,1800.0,UPI,Monday,1500.0
+31-01-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,Cash,Monday,600.0
+01-02-2022,House Repairs,House Repairs,Expense,0.0,120.0,Cash,Tuesday,480.0
+01-02-2022,Salary,Salary,Income,65000.0,0.0,UPI,Tuesday,65480.0
+01-02-2022,Accessories,Accessories,Expense,0.0,1800.0,UPI,Tuesday,63680.0
+01-02-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,UPI,Tuesday,62980.0
+02-02-2022,Bike Service,Bike Service,Expense,0.0,1200.0,Debit Card,Wednesday,61780.0
+02-02-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Wednesday,61180.0
+02-02-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Cash,Wednesday,60280.0
+03-02-2022,Water Bill,Water Bill,Expense,0.0,400.0,Debit Card,Thursday,59880.0
+03-02-2022,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Thursday,56880.0
+03-02-2022,Fuel,Fuel,Expense,0.0,2900.0,Cash,Thursday,53980.0
+04-02-2022,Fuel,Fuel,Expense,0.0,2900.0,Debit Card,Friday,51080.0
+04-02-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,Debit Card,Friday,50580.0
+04-02-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,Cash,Friday,50080.0
+05-02-2022,Clothes,Clothes,Expense,0.0,2400.0,UPI,Saturday,47680.0
+05-02-2022,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Saturday,46180.0
+07-02-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,Debit Card,Monday,45580.0
+08-02-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,UPI,Tuesday,44980.0
+08-02-2022,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Tuesday,42580.0
+09-02-2022,Movies,Movies,Expense,0.0,700.0,UPI,Wednesday,41880.0
+09-02-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,UPI,Wednesday,41580.0
+11-02-2022,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Friday,40380.0
+12-02-2022,Electronics,Electronics,Expense,0.0,4700.0,UPI,Saturday,35680.0
+15-02-2022,Taxi,Taxi,Expense,0.0,1800.0,Debit Card,Tuesday,33880.0
+15-02-2022,Fuel,Fuel,Expense,0.0,2900.0,Cash,Tuesday,30980.0
+17-02-2022,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Debit Card,Thursday,29780.0
+19-02-2022,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Saturday,27980.0
+19-02-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,Cash,Saturday,24980.0
+21-02-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,Cash,Monday,24280.0
+21-02-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,Debit Card,Monday,23380.0
+24-02-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Thursday,22780.0
+26-02-2022,Rent,Rent,Expense,0.0,8800.0,Debit Card,Saturday,13980.0
+26-02-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Saturday,13380.0
+28-02-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,UPI,Monday,12480.0
+28-02-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,UPI,Monday,5380.0
+01-03-2022,Salary,Salary,Income,65000.0,0.0,UPI,Tuesday,70380.0
+02-03-2022,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Wednesday,69980.0
+03-03-2022,Groceries,Groceries,Expense,0.0,3000.0,UPI,Thursday,66980.0
+03-03-2022,Taxi,Taxi,Expense,0.0,1800.0,Cash,Thursday,65180.0
+03-03-2022,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,UPI,Thursday,63980.0
+03-03-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,UPI,Thursday,63380.0
+04-03-2022,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Friday,60980.0
+04-03-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Friday,60380.0
+04-03-2022,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Friday,58880.0
+04-03-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,Cash,Friday,58180.0
+10-03-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Thursday,56980.0
+11-03-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Friday,56380.0
+11-03-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Friday,55180.0
+13-03-2022,Accessories,Accessories,Expense,0.0,1800.0,Cash,Sunday,53380.0
+14-03-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,Debit Card,Monday,52480.0
+14-03-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Monday,51880.0
+14-03-2022,Electronics,Electronics,Expense,0.0,4700.0,Cash,Monday,47180.0
+14-03-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,Cash,Monday,46280.0
+14-03-2022,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Monday,45080.0
+15-03-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Debit Card,Tuesday,44780.0
+17-03-2022,Rent,Rent,Expense,0.0,8800.0,Debit Card,Thursday,35980.0
+17-03-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Cash,Thursday,35080.0
+19-03-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Saturday,33280.0
+20-03-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Sunday,32080.0
+20-03-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Sunday,30280.0
+21-03-2022,Movies,Movies,Expense,0.0,700.0,Debit Card,Monday,29580.0
+22-03-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Tuesday,28980.0
+22-03-2022,Fuel,Fuel,Expense,0.0,2900.0,Cash,Tuesday,26080.0
+24-03-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,UPI,Thursday,25580.0
+24-03-2022,Bike Service,Bike Service,Expense,0.0,1200.0,Cash,Thursday,24380.0
+26-03-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Debit Card,Saturday,17280.0
+27-03-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,Cash,Sunday,14280.0
+28-03-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,Cash,Monday,13680.0
+29-03-2022,Clothes,Clothes,Expense,0.0,2400.0,UPI,Tuesday,11280.0
+30-03-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,Debit Card,Wednesday,10580.0
+30-03-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Cash,Wednesday,9980.0
+31-03-2022,Fuel,Fuel,Expense,0.0,2900.0,UPI,Thursday,7080.0
+31-03-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,UPI,Thursday,6580.0
+01-04-2022,Salary,Salary,Income,65000.0,0.0,UPI,Friday,71580.0
+01-04-2022,Electronics,Electronics,Expense,0.0,4700.0,Debit Card,Friday,66880.0
+01-04-2022,Insurance,Insurance,Expense,0.0,2400.0,UPI,Friday,64480.0
+01-04-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Friday,63880.0
+02-04-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Debit Card,Saturday,62980.0
+03-04-2022,Taxi,Taxi,Expense,0.0,1800.0,UPI,Sunday,61180.0
+04-04-2022,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Monday,60780.0
+05-04-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,Debit Card,Tuesday,60080.0
+05-04-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Tuesday,58280.0
+06-04-2022,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,UPI,Wednesday,57080.0
+08-04-2022,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Friday,55880.0
+09-04-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Debit Card,Saturday,55280.0
+10-04-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Sunday,54680.0
+11-04-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,Debit Card,Monday,54180.0
+12-04-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Tuesday,52980.0
+12-04-2022,Rent,Rent,Expense,0.0,8800.0,UPI,Tuesday,44180.0
+12-04-2022,Fuel,Fuel,Expense,0.0,2900.0,UPI,Tuesday,41280.0
+12-04-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,Debit Card,Tuesday,40680.0
+12-04-2022,Groceries,Groceries,Expense,0.0,3000.0,UPI,Tuesday,37680.0
+18-04-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Debit Card,Monday,37380.0
+19-04-2022,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Tuesday,34380.0
+19-04-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,UPI,Tuesday,27280.0
+20-04-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,Debit Card,Wednesday,26380.0
+21-04-2022,Clothes,Clothes,Expense,0.0,2400.0,Debit Card,Thursday,23980.0
+22-04-2022,Taxi,Taxi,Expense,0.0,1800.0,Cash,Friday,22180.0
+24-04-2022,Taxi,Taxi,Expense,0.0,1800.0,Debit Card,Sunday,20380.0
+25-04-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,Cash,Monday,19480.0
+25-04-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,Debit Card,Monday,18980.0
+25-04-2022,House Repairs,House Repairs,Expense,0.0,1200.0,Cash,Monday,17780.0
+26-04-2022,Concerts,Concerts,Expense,0.0,1500.0,Cash,Tuesday,16280.0
+27-04-2022,Accessories,Accessories,Expense,0.0,1800.0,Debit Card,Wednesday,14480.0
+28-04-2022,Movies,Movies,Expense,0.0,700.0,Debit Card,Thursday,13780.0
+28-04-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,Debit Card,Thursday,13080.0
+30-04-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Saturday,10080.0
+30-04-2022,Fuel,Fuel,Expense,0.0,2900.0,Cash,Saturday,7180.0
+01-05-2022,Salary,Salary,Income,65000.0,0.0,UPI,Sunday,72180.0
+01-05-2022,Fuel,Fuel,Expense,0.0,2900.0,Cash,Sunday,69280.0
+02-05-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,UPI,Monday,68380.0
+02-05-2022,Electronics,Electronics,Expense,0.0,4700.0,UPI,Monday,63680.0
+04-05-2022,Rent,Rent,Expense,0.0,8800.0,Cash,Wednesday,54880.0
+05-05-2022,Taxi,Taxi,Expense,0.0,1800.0,Cash,Thursday,53080.0
+06-05-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Friday,52480.0
+07-05-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,Cash,Saturday,51780.0
+07-05-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,Cash,Saturday,48780.0
+08-05-2022,Bike Service,Bike Service,Expense,0.0,1200.0,Debit Card,Sunday,47580.0
+09-05-2022,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Monday,46380.0
+10-05-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Debit Card,Tuesday,39280.0
+11-05-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,UPI,Wednesday,38980.0
+11-05-2022,Fuel,Fuel,Expense,0.0,2900.0,UPI,Wednesday,36080.0
+12-05-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,Cash,Thursday,35580.0
+13-05-2022,Clothes,Clothes,Expense,0.0,2400.0,Debit Card,Friday,33180.0
+14-05-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Cash,Saturday,31380.0
+14-05-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Cash,Saturday,30480.0
+14-05-2022,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Saturday,29280.0
+15-05-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Sunday,27480.0
+15-05-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Sunday,26280.0
+16-05-2022,Movies,Movies,Expense,0.0,700.0,Debit Card,Monday,25580.0
+18-05-2022,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Wednesday,23180.0
+20-05-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,UPI,Friday,22280.0
+22-05-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,Cash,Sunday,21780.0
+22-05-2022,Groceries,Groceries,Expense,0.0,3000.0,UPI,Sunday,18780.0
+22-05-2022,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Sunday,17280.0
+24-05-2022,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Tuesday,16880.0
+24-05-2022,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Cash,Tuesday,15680.0
+25-05-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,Debit Card,Wednesday,15080.0
+25-05-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Wednesday,14480.0
+25-05-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Wednesday,13280.0
+29-05-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,UPI,Sunday,12580.0
+31-05-2022,Accessories,Accessories,Expense,0.0,1800.0,UPI,Tuesday,10780.0
+01-06-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,Cash,Wednesday,10180.0
+01-06-2022,Salary,Salary,Income,65000.0,0.0,UPI,Wednesday,75180.0
+01-06-2022,Groceries,Groceries,Expense,0.0,3000.0,Cash,Wednesday,72180.0
+02-06-2022,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Thursday,71780.0
+03-06-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Friday,68780.0
+03-06-2022,Rent,Rent,Expense,0.0,8800.0,Cash,Friday,59980.0
+03-06-2022,Taxi,Taxi,Expense,0.0,1800.0,UPI,Friday,58180.0
+03-06-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Cash,Friday,57880.0
+04-06-2022,Groceries,Groceries,Expense,0.0,3000.0,Cash,Saturday,54880.0
+05-06-2022,Taxi,Taxi,Expense,0.0,1800.0,Debit Card,Sunday,53080.0
+05-06-2022,Fuel,Fuel,Expense,0.0,2900.0,Cash,Sunday,50180.0
+07-06-2022,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,UPI,Tuesday,48980.0
+08-06-2022,Fuel,Fuel,Expense,0.0,2900.0,UPI,Wednesday,46080.0
+08-06-2022,Clothes,Clothes,Expense,0.0,2400.0,Cash,Wednesday,43680.0
+08-06-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Cash,Wednesday,36580.0
+12-06-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Debit Card,Sunday,35980.0
+13-06-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Monday,35380.0
+13-06-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,Cash,Monday,34880.0
+14-06-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Tuesday,34280.0
+17-06-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Friday,33680.0
+17-06-2022,Movies,Movies,Expense,0.0,700.0,UPI,Friday,32980.0
+19-06-2022,Concerts,Concerts,Expense,0.0,1500.0,Cash,Sunday,31480.0
+21-06-2022,Accessories,Accessories,Expense,0.0,1800.0,UPI,Tuesday,29680.0
+21-06-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Cash,Tuesday,29080.0
+24-06-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,Cash,Friday,28180.0
+25-06-2022,Electronics,Electronics,Expense,0.0,4700.0,UPI,Saturday,23480.0
+26-06-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Cash,Sunday,22580.0
+26-06-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Sunday,20780.0
+27-06-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,Debit Card,Monday,20080.0
+27-06-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Monday,18880.0
+27-06-2022,Fuel,Fuel,Expense,0.0,2900.0,UPI,Monday,15980.0
+28-06-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,Debit Card,Tuesday,15480.0
+28-06-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,Cash,Tuesday,14780.0
+28-06-2022,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Tuesday,13580.0
+29-06-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Wednesday,12980.0
+30-06-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,UPI,Thursday,12080.0
+30-06-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Thursday,10880.0
+01-07-2022,Salary,Salary,Income,65000.0,0.0,UPI,Friday,75880.0
+02-07-2022,Taxi,Taxi,Expense,0.0,1800.0,UPI,Saturday,74080.0
+02-07-2022,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Saturday,72880.0
+03-07-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Cash,Sunday,72280.0
+03-07-2022,Rent,Rent,Expense,0.0,8800.0,Debit Card,Sunday,63480.0
+04-07-2022,Fuel,Fuel,Expense,0.0,2900.0,Cash,Monday,60580.0
+10-07-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Cash,Sunday,58780.0
+11-07-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Monday,55780.0
+11-07-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,UPI,Monday,55080.0
+12-07-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Tuesday,53880.0
+15-07-2022,Bike Service,Bike Service,Expense,0.0,1200.0,Debit Card,Friday,52680.0
+15-07-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Debit Card,Friday,52380.0
+15-07-2022,Clothes,Clothes,Expense,0.0,2400.0,Debit Card,Friday,49980.0
+15-07-2022,Movies,Movies,Expense,0.0,700.0,Debit Card,Friday,49280.0
+15-07-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Friday,48680.0
+16-07-2022,Accessories,Accessories,Expense,0.0,1800.0,Debit Card,Saturday,46880.0
+17-07-2022,Concerts,Concerts,Expense,0.0,1500.0,Cash,Sunday,45380.0
+17-07-2022,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Sunday,43580.0
+17-07-2022,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Debit Card,Sunday,42380.0
+18-07-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,Debit Card,Monday,41880.0
+19-07-2022,Groceries,Groceries,Expense,0.0,3000.0,UPI,Tuesday,38880.0
+20-07-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Debit Card,Wednesday,31780.0
+20-07-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,Cash,Wednesday,31180.0
+21-07-2022,Electronics,Electronics,Expense,0.0,4700.0,UPI,Thursday,26480.0
+21-07-2022,Water Bill,Water Bill,Expense,0.0,400.0,Debit Card,Thursday,26080.0
+23-07-2022,Insurance,Insurance,Expense,0.0,2400.0,Cash,Saturday,23680.0
+23-07-2022,Fuel,Fuel,Expense,0.0,2900.0,UPI,Saturday,20780.0
+25-07-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,Debit Card,Monday,20080.0
+25-07-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Debit Card,Monday,19180.0
+26-07-2022,Groceries,Groceries,Expense,0.0,3000.0,Cash,Tuesday,16180.0
+28-07-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,Debit Card,Thursday,15280.0
+28-07-2022,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Thursday,14080.0
+29-07-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,UPI,Friday,13180.0
+30-07-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,Debit Card,Saturday,12680.0
+31-07-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Sunday,12080.0
+01-08-2022,Salary,Salary,Income,65000.0,0.0,UPI,Monday,77080.0
+02-08-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,Debit Card,Tuesday,76180.0
+03-08-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Debit Card,Wednesday,75580.0
+06-08-2022,Fuel,Fuel,Expense,0.0,2900.0,UPI,Saturday,72680.0
+10-08-2022,Rent,Rent,Expense,0.0,8800.0,Debit Card,Wednesday,63880.0
+10-08-2022,Groceries,Groceries,Expense,0.0,3000.0,Cash,Wednesday,60880.0
+10-08-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,Debit Card,Wednesday,60380.0
+11-08-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,UPI,Thursday,59780.0
+11-08-2022,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Thursday,57980.0
+12-08-2022,Fuel,Fuel,Expense,0.0,2900.0,UPI,Friday,55080.0
+12-08-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Cash,Friday,54180.0
+12-08-2022,Fuel,Fuel,Expense,0.0,2900.0,Cash,Friday,51280.0
+13-08-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,UPI,Saturday,44180.0
+13-08-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,Debit Card,Saturday,43280.0
+13-08-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,Cash,Saturday,42780.0
+19-08-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Friday,40980.0
+20-08-2022,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Saturday,39480.0
+20-08-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,UPI,Saturday,38780.0
+21-08-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,Cash,Sunday,38080.0
+22-08-2022,Groceries,Groceries,Expense,0.0,3000.0,Cash,Monday,35080.0
+22-08-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,Debit Card,Monday,34480.0
+22-08-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Monday,31480.0
+22-08-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Monday,30880.0
+23-08-2022,House Repairs,House Repairs,Expense,0.0,1200.0,Debit Card,Tuesday,29680.0
+24-08-2022,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Wednesday,26680.0
+25-08-2022,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Thursday,26280.0
+26-08-2022,Clothes,Clothes,Expense,0.0,2400.0,Cash,Friday,23880.0
+27-08-2022,Electronics,Electronics,Expense,0.0,4700.0,UPI,Saturday,19180.0
+27-08-2022,Accessories,Accessories,Expense,0.0,1800.0,Debit Card,Saturday,17380.0
+28-08-2022,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Sunday,15580.0
+30-08-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Tuesday,14380.0
+30-08-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Debit Card,Tuesday,13780.0
+30-08-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Cash,Tuesday,13480.0
+31-08-2022,Movies,Movies,Expense,0.0,700.0,UPI,Wednesday,12780.0
+01-09-2022,Salary,Salary,Income,65000.0,0.0,UPI,Thursday,77780.0
+02-09-2022,Water Bill,Water Bill,Expense,0.0,400.0,Debit Card,Friday,77380.0
+02-09-2022,Groceries,Groceries,Expense,0.0,3000.0,Cash,Friday,74380.0
+05-09-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,Debit Card,Monday,73480.0
+06-09-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Tuesday,72880.0
+08-09-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Cash,Thursday,71080.0
+08-09-2022,Rent,Rent,Expense,0.0,8800.0,Cash,Thursday,62280.0
+08-09-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Thursday,61080.0
+10-09-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,UPI,Saturday,60380.0
+10-09-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Saturday,59180.0
+11-09-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,Debit Card,Sunday,58580.0
+12-09-2022,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Monday,57080.0
+13-09-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,UPI,Tuesday,56380.0
+14-09-2022,Electronics,Electronics,Expense,0.0,4700.0,UPI,Wednesday,51680.0
+15-09-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,Cash,Thursday,51180.0
+17-09-2022,Clothes,Clothes,Expense,0.0,2400.0,Debit Card,Saturday,48780.0
+17-09-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Debit Card,Saturday,47880.0
+19-09-2022,Movies,Movies,Expense,0.0,700.0,Cash,Monday,47180.0
+21-09-2022,Fuel,Fuel,Expense,0.0,2900.0,Cash,Wednesday,44280.0
+22-09-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Thursday,42480.0
+23-09-2022,Taxi,Taxi,Expense,0.0,1800.0,Debit Card,Friday,40680.0
+24-09-2022,Groceries,Groceries,Expense,0.0,3000.0,Cash,Saturday,37680.0
+25-09-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,Cash,Sunday,36780.0
+26-09-2022,Groceries,Groceries,Expense,0.0,3000.0,UPI,Monday,33780.0
+26-09-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Monday,32580.0
+26-09-2022,Accessories,Accessories,Expense,0.0,1800.0,Debit Card,Monday,30780.0
+26-09-2022,House Repairs,House Repairs,Expense,0.0,1200.0,Cash,Monday,29580.0
+27-09-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Debit Card,Tuesday,29280.0
+27-09-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,UPI,Tuesday,26280.0
+28-09-2022,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Cash,Wednesday,25080.0
+28-09-2022,Taxi,Taxi,Expense,0.0,1800.0,UPI,Wednesday,23280.0
+28-09-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Wednesday,22680.0
+29-09-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,Debit Card,Thursday,22180.0
+29-09-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,UPI,Thursday,15080.0
+30-09-2022,Taxi,Taxi,Expense,0.0,1800.0,UPI,Friday,13280.0
+01-10-2022,Bike Service,Bike Service,Expense,0.0,1200.0,Debit Card,Saturday,12080.0
+01-10-2022,Salary,Salary,Income,65000.0,0.0,UPI,Saturday,77080.0
+01-10-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,Cash,Saturday,76180.0
+03-10-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,UPI,Monday,75680.0
+03-10-2022,Taxi,Taxi,Expense,0.0,1800.0,UPI,Monday,73880.0
+04-10-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Tuesday,73280.0
+05-10-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Cash,Wednesday,72980.0
+05-10-2022,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Wednesday,71780.0
+06-10-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,Cash,Thursday,71080.0
+07-10-2022,Clothes,Clothes,Expense,0.0,2400.0,UPI,Friday,68680.0
+08-10-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Saturday,68080.0
+08-10-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Cash,Saturday,67480.0
+10-10-2022,Rent,Rent,Expense,0.0,8800.0,Cash,Monday,58680.0
+11-10-2022,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Tuesday,56880.0
+12-10-2022,Groceries,Groceries,Expense,0.0,3000.0,UPI,Wednesday,53880.0
+14-10-2022,Fuel,Fuel,Expense,0.0,2900.0,Debit Card,Friday,50980.0
+14-10-2022,Accessories,Accessories,Expense,0.0,1800.0,UPI,Friday,49180.0
+14-10-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,UPI,Friday,48480.0
+15-10-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Debit Card,Saturday,47580.0
+16-10-2022,Concerts,Concerts,Expense,0.0,1500.0,Cash,Sunday,46080.0
+17-10-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Cash,Monday,45480.0
+17-10-2022,Car EMI,Car EMI,Expense,0.0,4700.0,Debit Card,Monday,40780.0
+18-10-2022,Electronics,Electronics,Expense,0.0,4700.0,Debit Card,Tuesday,36080.0
+20-10-2022,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Thursday,33680.0
+20-10-2022,Movies,Movies,Expense,0.0,700.0,UPI,Thursday,32980.0
+20-10-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Thursday,29980.0
+21-10-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Friday,28780.0
+23-10-2022,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Sunday,27580.0
+25-10-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Debit Card,Tuesday,20480.0
+26-10-2022,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Wednesday,19280.0
+26-10-2022,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Debit Card,Wednesday,18080.0
+27-10-2022,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Thursday,17680.0
+27-10-2022,Taxi,Taxi,Expense,0.0,1800.0,Cash,Thursday,15880.0
+29-10-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,Cash,Saturday,15280.0
+29-10-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,UPI,Saturday,14780.0
+30-10-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,UPI,Sunday,13880.0
+01-11-2022,Salary,Salary,Income,65000.0,0.0,UPI,Tuesday,78880.0
+02-11-2022,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,UPI,Wednesday,77680.0
+02-11-2022,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Wednesday,74680.0
+03-11-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,Debit Card,Thursday,73980.0
+03-11-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Thursday,73380.0
+05-11-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Cash,Saturday,72480.0
+05-11-2022,Movies,Movies,Expense,0.0,700.0,UPI,Saturday,71780.0
+06-11-2022,Accessories,Accessories,Expense,0.0,1800.0,UPI,Sunday,69980.0
+06-11-2022,Clothes,Clothes,Expense,0.0,2400.0,Debit Card,Sunday,67580.0
+08-11-2022,Water Bill,Water Bill,Expense,0.0,400.0,Debit Card,Tuesday,67180.0
+08-11-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,Debit Card,Tuesday,66480.0
+10-11-2022,Fuel,Fuel,Expense,0.0,2900.0,UPI,Thursday,63580.0
+11-11-2022,Taxi,Taxi,Expense,0.0,1800.0,Cash,Friday,61780.0
+11-11-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,Debit Card,Friday,60880.0
+12-11-2022,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Saturday,59680.0
+12-11-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,Debit Card,Saturday,59180.0
+12-11-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Cash,Saturday,57380.0
+13-11-2022,Groceries,Groceries,Expense,0.0,3000.0,Cash,Sunday,54380.0
+14-11-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,UPI,Monday,54080.0
+14-11-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,UPI,Monday,53480.0
+15-11-2022,Electronics,Electronics,Expense,0.0,4700.0,Debit Card,Tuesday,48780.0
+16-11-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Wednesday,45780.0
+17-11-2022,Insurance,Insurance,Expense,0.0,2400.0,Cash,Thursday,43380.0
+18-11-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Friday,42780.0
+18-11-2022,Groceries,Groceries,Expense,0.0,3000.0,UPI,Friday,39780.0
+20-11-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,Cash,Sunday,39280.0
+21-11-2022,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Monday,38080.0
+22-11-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,Debit Card,Tuesday,37180.0
+23-11-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Wednesday,36580.0
+24-11-2022,Concerts,Concerts,Expense,0.0,1500.0,Cash,Thursday,35080.0
+24-11-2022,Rent,Rent,Expense,0.0,8800.0,Debit Card,Thursday,26280.0
+24-11-2022,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Thursday,24480.0
+25-11-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Debit Card,Friday,17380.0
+26-11-2022,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Saturday,16180.0
+27-11-2022,Bike Service,Bike Service,Expense,0.0,1200.0,Debit Card,Sunday,14980.0
+01-12-2022,Salary,Salary,Income,65000.0,0.0,UPI,Thursday,79980.0
+03-12-2022,Accessories,Accessories,Expense,0.0,1800.0,Debit Card,Saturday,78180.0
+04-12-2022,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Sunday,76980.0
+04-12-2022,Mobile Accessories,Mobile Accessories,Expense,0.0,900.0,Cash,Sunday,76080.0
+05-12-2022,Fuel,Fuel,Expense,0.0,2900.0,Debit Card,Monday,73180.0
+05-12-2022,Taxi,Taxi,Expense,0.0,1800.0,UPI,Monday,71380.0
+06-12-2022,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Tuesday,69880.0
+07-12-2022,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Cash,Wednesday,69580.0
+08-12-2022,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Thursday,67180.0
+09-12-2022,Internet Bill,Internet Bill,Expense,0.0,700.0,UPI,Friday,66480.0
+09-12-2022,Groceries,Groceries,Expense,0.0,3000.0,UPI,Friday,63480.0
+09-12-2022,Electronics,Electronics,Expense,0.0,4700.0,Debit Card,Friday,58780.0
+10-12-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Saturday,57580.0
+10-12-2022,Rent,Rent,Expense,0.0,8800.0,Cash,Saturday,48780.0
+11-12-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,UPI,Sunday,48180.0
+11-12-2022,Software Subscription,Software Subscription,Expense,0.0,600.0,Cash,Sunday,47580.0
+11-12-2022,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Sunday,46380.0
+12-12-2022,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Monday,43380.0
+12-12-2022,Gas Bill,Gas Bill,Expense,0.0,500.0,UPI,Monday,42880.0
+13-12-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Tuesday,42280.0
+14-12-2022,Broadband Bill,Broadband Bill,Expense,0.0,700.0,Cash,Wednesday,41580.0
+14-12-2022,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Wednesday,39780.0
+14-12-2022,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Wednesday,37980.0
+15-12-2022,House Repairs,House Repairs,Expense,0.0,1200.0,Debit Card,Thursday,36780.0
+15-12-2022,Movies,Movies,Expense,0.0,700.0,Cash,Thursday,36080.0
+15-12-2022,Streaming Services,Streaming Services,Expense,0.0,500.0,UPI,Thursday,35580.0
+15-12-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Cash,Thursday,34980.0
+16-12-2022,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Friday,34380.0
+17-12-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Debit Card,Saturday,33780.0
+20-12-2022,Clothes,Clothes,Expense,0.0,2400.0,Cash,Tuesday,31380.0
+22-12-2022,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Cash,Thursday,30180.0
+22-12-2022,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Thursday,29580.0
+23-12-2022,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Cash,Friday,22480.0
+24-12-2022,Gym Membership,Gym Membership,Expense,0.0,900.0,Cash,Saturday,21580.0
+25-12-2022,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Debit Card,Sunday,20680.0
+26-12-2022,Online Shopping,Online Shopping,Expense,0.0,3000.0,UPI,Monday,17680.0
+27-12-2022,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Tuesday,15880.0
+28-12-2022,Water Bill,Water Bill,Expense,0.0,400.0,Debit Card,Wednesday,15480.0
+01-01-2023,Salary,Salary,Income,72000.0,0.0,UPI,Saturday,87480.0
+04-01-2023,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Tuesday,85080.0
+04-01-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,650.0,Cash,Tuesday,84430.0
+04-01-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,UPI,Tuesday,77330.0
+04-01-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,Debit Card,Tuesday,76580.0
+05-01-2023,Accessories,Accessories,Expense,0.0,1900.0,Cash,Wednesday,74680.0
+05-01-2023,Movies,Movies,Expense,0.0,900.0,Cash,Wednesday,73780.0
+05-01-2023,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Wednesday,72580.0
+07-01-2023,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Cash,Friday,71380.0
+08-01-2023,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Saturday,68380.0
+08-01-2023,Concerts,Concerts,Expense,0.0,2500.0,Debit Card,Saturday,65880.0
+10-01-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Monday,64680.0
+10-01-2023,House Repairs,House Repairs,Expense,0.0,1200.0,Cash,Monday,63480.0
+11-01-2023,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Tuesday,60480.0
+14-01-2023,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Friday,59280.0
+14-01-2023,Electronics,Electronics,Expense,0.0,4700.0,Debit Card,Friday,54580.0
+15-01-2023,Electricity Bill,Electricity Bill,Expense,0.0,950.0,Cash,Saturday,53630.0
+15-01-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,Cash,Saturday,53130.0
+16-01-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,UPI,Sunday,52530.0
+18-01-2023,Internet Bill,Internet Bill,Expense,0.0,700.0,UPI,Tuesday,51830.0
+19-01-2023,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Wednesday,51430.0
+20-01-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Thursday,50830.0
+21-01-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Cash,Friday,49030.0
+22-01-2023,Gas Bill,Gas Bill,Expense,0.0,550.0,Cash,Saturday,48480.0
+22-01-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Debit Card,Saturday,48180.0
+22-01-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,Debit Card,Saturday,47280.0
+23-01-2023,Clothes,Clothes,Expense,0.0,2400.0,Debit Card,Sunday,44880.0
+23-01-2023,Fuel,Fuel,Expense,0.0,2900.0,Cash,Sunday,41980.0
+24-01-2023,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Monday,38980.0
+27-01-2023,Software Subscription,Software Subscription,Expense,0.0,650.0,Debit Card,Thursday,38330.0
+28-01-2023,Taxi,Taxi,Expense,0.0,1800.0,Cash,Friday,36530.0
+29-01-2023,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Saturday,33530.0
+31-01-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Monday,32930.0
+31-01-2023,Rent,Rent,Expense,0.0,8800.0,UPI,Monday,24130.0
+31-01-2023,Taxi,Taxi,Expense,0.0,1800.0,UPI,Monday,22330.0
+31-01-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,1000.0,Cash,Monday,21330.0
+01-02-2023,House Repairs,House Repairs,Expense,0.0,120.0,Cash,Tuesday,21210.0
+01-02-2023,Salary,Salary,Income,72000.0,0.0,UPI,Tuesday,93210.0
+01-02-2023,Accessories,Accessories,Expense,0.0,1800.0,UPI,Tuesday,91410.0
+01-02-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,UPI,Tuesday,90660.0
+02-02-2023,Bike Service,Bike Service,Expense,0.0,1200.0,Debit Card,Wednesday,89460.0
+02-02-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Wednesday,88860.0
+02-02-2023,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Cash,Wednesday,87960.0
+03-02-2023,Water Bill,Water Bill,Expense,0.0,400.0,Debit Card,Thursday,87560.0
+03-02-2023,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Thursday,84560.0
+03-02-2023,Fuel,Fuel,Expense,0.0,2900.0,Cash,Thursday,81660.0
+04-02-2023,Fuel,Fuel,Expense,0.0,2900.0,Debit Card,Friday,78760.0
+04-02-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,Debit Card,Friday,78260.0
+04-02-2023,Gas Bill,Gas Bill,Expense,0.0,550.0,Cash,Friday,77710.0
+05-02-2023,Clothes,Clothes,Expense,0.0,2400.0,UPI,Saturday,75310.0
+05-02-2023,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Saturday,73810.0
+07-02-2023,Software Subscription,Software Subscription,Expense,0.0,650.0,Debit Card,Monday,73160.0
+08-02-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,UPI,Tuesday,72560.0
+08-02-2023,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Tuesday,70160.0
+09-02-2023,Movies,Movies,Expense,0.0,700.0,UPI,Wednesday,69460.0
+09-02-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,UPI,Wednesday,69160.0
+11-02-2023,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Friday,67960.0
+12-02-2023,Electronics,Electronics,Expense,0.0,4700.0,UPI,Saturday,63260.0
+15-02-2023,Taxi,Taxi,Expense,0.0,1800.0,Debit Card,Tuesday,61460.0
+15-02-2023,Fuel,Fuel,Expense,0.0,2900.0,Cash,Tuesday,58560.0
+17-02-2023,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Debit Card,Thursday,57360.0
+19-02-2023,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Saturday,55560.0
+19-02-2023,Online Shopping,Online Shopping,Expense,0.0,3000.0,Cash,Saturday,52560.0
+21-02-2023,Internet Bill,Internet Bill,Expense,0.0,700.0,Cash,Monday,51860.0
+21-02-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,1000.0,Debit Card,Monday,50860.0
+24-02-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Thursday,50260.0
+26-02-2023,Rent,Rent,Expense,0.0,8800.0,Debit Card,Saturday,41460.0
+26-02-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Saturday,40860.0
+28-02-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,UPI,Monday,39960.0
+28-02-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,UPI,Monday,32860.0
+01-03-2023,Salary,Salary,Income,72000.0,0.0,UPI,Tuesday,104860.0
+02-03-2023,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Wednesday,104460.0
+03-03-2023,Groceries,Groceries,Expense,0.0,3000.0,UPI,Thursday,101460.0
+03-03-2023,Taxi,Taxi,Expense,0.0,1800.0,Cash,Thursday,99660.0
+03-03-2023,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,UPI,Thursday,98460.0
+03-03-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,UPI,Thursday,97860.0
+04-03-2023,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Friday,95460.0
+04-03-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Friday,94860.0
+04-03-2023,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Friday,93360.0
+04-03-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,Cash,Friday,92610.0
+10-03-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Thursday,91410.0
+11-03-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Friday,90810.0
+11-03-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Friday,89610.0
+13-03-2023,Accessories,Accessories,Expense,0.0,1800.0,Cash,Sunday,87810.0
+14-03-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,950.0,Debit Card,Monday,86860.0
+14-03-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Monday,86260.0
+14-03-2023,Electronics,Electronics,Expense,0.0,4700.0,Cash,Monday,81560.0
+14-03-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,Cash,Monday,80660.0
+14-03-2023,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Monday,79460.0
+15-03-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Debit Card,Tuesday,79160.0
+17-03-2023,Rent,Rent,Expense,0.0,8800.0,Debit Card,Thursday,70360.0
+17-03-2023,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Cash,Thursday,69460.0
+19-03-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Saturday,67660.0
+20-03-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Sunday,66460.0
+20-03-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Sunday,64660.0
+21-03-2023,Movies,Movies,Expense,0.0,700.0,Debit Card,Monday,63960.0
+22-03-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Tuesday,63360.0
+22-03-2023,Fuel,Fuel,Expense,0.0,2900.0,Cash,Tuesday,60460.0
+24-03-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,UPI,Thursday,59960.0
+24-03-2023,Bike Service,Bike Service,Expense,0.0,1200.0,Cash,Thursday,58760.0
+26-03-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Debit Card,Saturday,51660.0
+27-03-2023,Online Shopping,Online Shopping,Expense,0.0,3000.0,Cash,Sunday,48660.0
+28-03-2023,Software Subscription,Software Subscription,Expense,0.0,650.0,Cash,Monday,48010.0
+29-03-2023,Clothes,Clothes,Expense,0.0,2400.0,UPI,Tuesday,45610.0
+30-03-2023,Internet Bill,Internet Bill,Expense,0.0,700.0,Debit Card,Wednesday,44910.0
+30-03-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Cash,Wednesday,44310.0
+31-03-2023,Fuel,Fuel,Expense,0.0,2900.0,UPI,Thursday,41410.0
+31-03-2023,Gas Bill,Gas Bill,Expense,0.0,550.0,UPI,Thursday,40860.0
+01-04-2023,Salary,Salary,Income,72000.0,0.0,UPI,Friday,112860.0
+01-04-2023,Electronics,Electronics,Expense,0.0,4700.0,Debit Card,Friday,108160.0
+01-04-2023,Insurance,Insurance,Expense,0.0,2400.0,UPI,Friday,105760.0
+01-04-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Friday,105160.0
+02-04-2023,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Debit Card,Saturday,104260.0
+03-04-2023,Taxi,Taxi,Expense,0.0,1800.0,UPI,Sunday,102460.0
+04-04-2023,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Monday,102060.0
+05-04-2023,Internet Bill,Internet Bill,Expense,0.0,700.0,Debit Card,Tuesday,101360.0
+05-04-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Tuesday,99560.0
+06-04-2023,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,UPI,Wednesday,98360.0
+08-04-2023,Fast Food,Fast Food,Expense,0.0,1500.0,UPI,Friday,96860.0
+09-04-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,700.0,Debit Card,Saturday,96160.0
+10-04-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,650.0,Debit Card,Sunday,95510.0
+11-04-2023,Gas Bill,Gas Bill,Expense,0.0,590.0,Debit Card,Monday,94920.0
+12-04-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Tuesday,93720.0
+12-04-2023,Rent,Rent,Expense,0.0,8800.0,UPI,Tuesday,84920.0
+12-04-2023,Fuel,Fuel,Expense,0.0,2900.0,UPI,Tuesday,82020.0
+12-04-2023,Software Subscription,Software Subscription,Expense,0.0,650.0,Debit Card,Tuesday,81370.0
+12-04-2023,Groceries,Groceries,Expense,0.0,3000.0,UPI,Tuesday,78370.0
+18-04-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,350.0,Debit Card,Monday,78020.0
+19-04-2023,Groceries,Groceries,Expense,0.0,3600.0,Debit Card,Tuesday,74420.0
+19-04-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,UPI,Tuesday,67320.0
+20-04-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,Debit Card,Wednesday,66420.0
+21-04-2023,Clothes,Clothes,Expense,0.0,2600.0,Debit Card,Thursday,63820.0
+22-04-2023,Taxi,Taxi,Expense,0.0,1800.0,Cash,Friday,62020.0
+24-04-2023,Taxi,Taxi,Expense,0.0,1800.0,Debit Card,Sunday,60220.0
+25-04-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,1950.0,Cash,Monday,58270.0
+25-04-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,Debit Card,Monday,57770.0
+25-04-2023,House Repairs,House Repairs,Expense,0.0,1500.0,Cash,Monday,56270.0
+26-04-2023,Concerts,Concerts,Expense,0.0,1500.0,Cash,Tuesday,54770.0
+27-04-2023,Accessories,Accessories,Expense,0.0,1800.0,Debit Card,Wednesday,52970.0
+28-04-2023,Movies,Movies,Expense,0.0,700.0,Debit Card,Thursday,52270.0
+28-04-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,Debit Card,Thursday,51520.0
+30-04-2023,Online Shopping,Online Shopping,Expense,0.0,3600.0,Debit Card,Saturday,47920.0
+30-04-2023,Fuel,Fuel,Expense,0.0,2900.0,Cash,Saturday,45020.0
+01-05-2023,Salary,Salary,Income,72000.0,0.0,UPI,Sunday,117020.0
+01-05-2023,Fuel,Fuel,Expense,0.0,2900.0,Cash,Sunday,114120.0
+02-05-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,UPI,Monday,113220.0
+02-05-2023,Electronics,Electronics,Expense,0.0,4700.0,UPI,Monday,108520.0
+04-05-2023,Rent,Rent,Expense,0.0,8800.0,Cash,Wednesday,99720.0
+05-05-2023,Taxi,Taxi,Expense,0.0,1800.0,Cash,Thursday,97920.0
+06-05-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Friday,97320.0
+07-05-2023,Internet Bill,Internet Bill,Expense,0.0,700.0,Cash,Saturday,96620.0
+07-05-2023,Online Shopping,Online Shopping,Expense,0.0,3000.0,Cash,Saturday,93620.0
+08-05-2023,Bike Service,Bike Service,Expense,0.0,1200.0,Debit Card,Sunday,92420.0
+09-05-2023,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Monday,91220.0
+10-05-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Debit Card,Tuesday,84120.0
+11-05-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,UPI,Wednesday,83820.0
+11-05-2023,Fuel,Fuel,Expense,0.0,2900.0,UPI,Wednesday,80920.0
+12-05-2023,Gas Bill,Gas Bill,Expense,0.0,550.0,Cash,Thursday,80370.0
+13-05-2023,Clothes,Clothes,Expense,0.0,2400.0,Debit Card,Friday,77970.0
+14-05-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Cash,Saturday,76170.0
+14-05-2023,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Cash,Saturday,75270.0
+14-05-2023,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Saturday,74070.0
+15-05-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Sunday,72270.0
+15-05-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Sunday,71070.0
+16-05-2023,Movies,Movies,Expense,0.0,700.0,Debit Card,Monday,70370.0
+18-05-2023,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Wednesday,67970.0
+20-05-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,1000.0,UPI,Friday,66970.0
+22-05-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,Cash,Sunday,66470.0
+22-05-2023,Groceries,Groceries,Expense,0.0,3000.0,UPI,Sunday,63470.0
+22-05-2023,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Sunday,61970.0
+24-05-2023,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Tuesday,61570.0
+24-05-2023,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Cash,Tuesday,60370.0
+25-05-2023,Software Subscription,Software Subscription,Expense,0.0,650.0,Debit Card,Wednesday,59720.0
+25-05-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Wednesday,59120.0
+25-05-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Wednesday,57920.0
+29-05-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,UPI,Sunday,57170.0
+31-05-2023,Accessories,Accessories,Expense,0.0,1800.0,UPI,Tuesday,55370.0
+01-06-2023,Software Subscription,Software Subscription,Expense,0.0,650.0,Cash,Wednesday,54720.0
+01-06-2023,Salary,Salary,Income,72000.0,0.0,UPI,Wednesday,126720.0
+01-06-2023,Groceries,Groceries,Expense,0.0,3000.0,Cash,Wednesday,123720.0
+02-06-2023,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Thursday,123320.0
+03-06-2023,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Friday,120320.0
+03-06-2023,Rent,Rent,Expense,0.0,8800.0,Cash,Friday,111520.0
+03-06-2023,Taxi,Taxi,Expense,0.0,1800.0,UPI,Friday,109720.0
+03-06-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,350.0,Cash,Friday,109370.0
+04-06-2023,Groceries,Groceries,Expense,0.0,3000.0,Cash,Saturday,106370.0
+05-06-2023,Taxi,Taxi,Expense,0.0,1800.0,Debit Card,Sunday,104570.0
+05-06-2023,Fuel,Fuel,Expense,0.0,2900.0,Cash,Sunday,101670.0
+07-06-2023,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,UPI,Tuesday,100470.0
+08-06-2023,Fuel,Fuel,Expense,0.0,2900.0,UPI,Wednesday,97570.0
+08-06-2023,Clothes,Clothes,Expense,0.0,2400.0,Cash,Wednesday,95170.0
+08-06-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Cash,Wednesday,88070.0
+12-06-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Debit Card,Sunday,87470.0
+13-06-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Monday,86870.0
+13-06-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,Cash,Monday,86370.0
+14-06-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Tuesday,85770.0
+17-06-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Friday,85170.0
+17-06-2023,Movies,Movies,Expense,0.0,700.0,UPI,Friday,84470.0
+19-06-2023,Concerts,Concerts,Expense,0.0,1500.0,Cash,Sunday,82970.0
+21-06-2023,Accessories,Accessories,Expense,0.0,1800.0,UPI,Tuesday,81170.0
+21-06-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Cash,Tuesday,80570.0
+24-06-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,Cash,Friday,79670.0
+25-06-2023,Electronics,Electronics,Expense,0.0,4700.0,UPI,Saturday,74970.0
+26-06-2023,Electricity Bill,Electricity Bill,Expense,0.0,850.0,Cash,Sunday,74120.0
+26-06-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Sunday,72320.0
+27-06-2023,Internet Bill,Internet Bill,Expense,0.0,700.0,Debit Card,Monday,71620.0
+27-06-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Monday,70420.0
+27-06-2023,Fuel,Fuel,Expense,0.0,2900.0,UPI,Monday,67520.0
+28-06-2023,Gas Bill,Gas Bill,Expense,0.0,550.0,Debit Card,Tuesday,66970.0
+28-06-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,Cash,Tuesday,66220.0
+28-06-2023,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Tuesday,65020.0
+29-06-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Wednesday,64420.0
+30-06-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,950.0,UPI,Thursday,63470.0
+30-06-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Thursday,62270.0
+01-07-2023,Salary,Salary,Income,72000.0,0.0,UPI,Friday,134270.0
+02-07-2023,Taxi,Taxi,Expense,0.0,1800.0,UPI,Saturday,132470.0
+02-07-2023,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Saturday,131270.0
+03-07-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Cash,Sunday,130670.0
+03-07-2023,Rent,Rent,Expense,0.0,8800.0,Debit Card,Sunday,121870.0
+04-07-2023,Fuel,Fuel,Expense,0.0,2900.0,Cash,Monday,118970.0
+10-07-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Cash,Sunday,117170.0
+11-07-2023,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Monday,114170.0
+11-07-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,UPI,Monday,113420.0
+12-07-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Tuesday,112220.0
+15-07-2023,Bike Service,Bike Service,Expense,0.0,1200.0,Debit Card,Friday,111020.0
+15-07-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Debit Card,Friday,110720.0
+15-07-2023,Clothes,Clothes,Expense,0.0,2400.0,Debit Card,Friday,108320.0
+15-07-2023,Movies,Movies,Expense,0.0,700.0,Debit Card,Friday,107620.0
+15-07-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Friday,107020.0
+16-07-2023,Accessories,Accessories,Expense,0.0,1800.0,Debit Card,Saturday,105220.0
+17-07-2023,Concerts,Concerts,Expense,0.0,1500.0,Cash,Sunday,103720.0
+17-07-2023,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Sunday,101920.0
+17-07-2023,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Debit Card,Sunday,100720.0
+18-07-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,Debit Card,Monday,100220.0
+19-07-2023,Groceries,Groceries,Expense,0.0,3000.0,UPI,Tuesday,97220.0
+20-07-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Debit Card,Wednesday,90120.0
+20-07-2023,Software Subscription,Software Subscription,Expense,0.0,650.0,Cash,Wednesday,89470.0
+21-07-2023,Electronics,Electronics,Expense,0.0,4700.0,UPI,Thursday,84770.0
+21-07-2023,Water Bill,Water Bill,Expense,0.0,400.0,Debit Card,Thursday,84370.0
+23-07-2023,Insurance,Insurance,Expense,0.0,2400.0,Cash,Saturday,81970.0
+23-07-2023,Fuel,Fuel,Expense,0.0,2900.0,UPI,Saturday,79070.0
+25-07-2023,Internet Bill,Internet Bill,Expense,0.0,700.0,Debit Card,Monday,78370.0
+25-07-2023,Electricity Bill,Electricity Bill,Expense,0.0,950.0,Debit Card,Monday,77420.0
+26-07-2023,Groceries,Groceries,Expense,0.0,3000.0,Cash,Tuesday,74420.0
+28-07-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,1000.0,Debit Card,Thursday,73420.0
+28-07-2023,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Thursday,72220.0
+29-07-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,UPI,Friday,71320.0
+30-07-2023,Gas Bill,Gas Bill,Expense,0.0,550.0,Debit Card,Saturday,70770.0
+31-07-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Sunday,70170.0
+01-08-2023,Salary,Salary,Income,72000.0,0.0,UPI,Monday,142170.0
+02-08-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,1000.0,Debit Card,Tuesday,141170.0
+03-08-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Debit Card,Wednesday,140570.0
+06-08-2023,Fuel,Fuel,Expense,0.0,2900.0,UPI,Saturday,137670.0
+10-08-2023,Rent,Rent,Expense,0.0,8800.0,Debit Card,Wednesday,128870.0
+10-08-2023,Groceries,Groceries,Expense,0.0,3000.0,Cash,Wednesday,125870.0
+10-08-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,Debit Card,Wednesday,125370.0
+11-08-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,UPI,Thursday,124770.0
+11-08-2023,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Thursday,122970.0
+12-08-2023,Fuel,Fuel,Expense,0.0,2900.0,UPI,Friday,120070.0
+12-08-2023,Electricity Bill,Electricity Bill,Expense,0.0,950.0,Cash,Friday,119120.0
+12-08-2023,Fuel,Fuel,Expense,0.0,2900.0,Cash,Friday,116220.0
+13-08-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,UPI,Saturday,109120.0
+13-08-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,Debit Card,Saturday,108220.0
+13-08-2023,Gas Bill,Gas Bill,Expense,0.0,550.0,Cash,Saturday,107670.0
+19-08-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Friday,105870.0
+20-08-2023,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Saturday,104370.0
+20-08-2023,Internet Bill,Internet Bill,Expense,0.0,700.0,UPI,Saturday,103670.0
+21-08-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,Cash,Sunday,102920.0
+22-08-2023,Groceries,Groceries,Expense,0.0,3000.0,Cash,Monday,99920.0
+22-08-2023,Software Subscription,Software Subscription,Expense,0.0,650.0,Debit Card,Monday,99270.0
+22-08-2023,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Monday,96270.0
+22-08-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Monday,95670.0
+23-08-2023,House Repairs,House Repairs,Expense,0.0,1200.0,Debit Card,Tuesday,94470.0
+24-08-2023,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Wednesday,91470.0
+25-08-2023,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Thursday,91070.0
+26-08-2023,Clothes,Clothes,Expense,0.0,2400.0,Cash,Friday,88670.0
+27-08-2023,Electronics,Electronics,Expense,0.0,4700.0,UPI,Saturday,83970.0
+27-08-2023,Accessories,Accessories,Expense,0.0,1800.0,Debit Card,Saturday,82170.0
+28-08-2023,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Sunday,80370.0
+30-08-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Tuesday,79170.0
+30-08-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Debit Card,Tuesday,78570.0
+30-08-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,350.0,Cash,Tuesday,78220.0
+31-08-2023,Movies,Movies,Expense,0.0,700.0,UPI,Wednesday,77520.0
+01-09-2023,Salary,Salary,Income,72000.0,0.0,UPI,Thursday,149520.0
+02-09-2023,Water Bill,Water Bill,Expense,0.0,400.0,Debit Card,Friday,149120.0
+02-09-2023,Groceries,Groceries,Expense,0.0,3000.0,Cash,Friday,146120.0
+05-09-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,950.0,Debit Card,Monday,145170.0
+06-09-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Tuesday,144570.0
+08-09-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Cash,Thursday,142770.0
+08-09-2023,Rent,Rent,Expense,0.0,8800.0,Cash,Thursday,133970.0
+08-09-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Thursday,132770.0
+10-09-2023,Internet Bill,Internet Bill,Expense,0.0,700.0,UPI,Saturday,132070.0
+10-09-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Saturday,130870.0
+11-09-2023,Software Subscription,Software Subscription,Expense,0.0,650.0,Debit Card,Sunday,130220.0
+12-09-2023,Concerts,Concerts,Expense,0.0,1500.0,Debit Card,Monday,128720.0
+13-09-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,UPI,Tuesday,127970.0
+14-09-2023,Electronics,Electronics,Expense,0.0,4700.0,UPI,Wednesday,123270.0
+15-09-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,Cash,Thursday,122770.0
+17-09-2023,Clothes,Clothes,Expense,0.0,2400.0,Debit Card,Saturday,120370.0
+17-09-2023,Electricity Bill,Electricity Bill,Expense,0.0,900.0,Debit Card,Saturday,119470.0
+19-09-2023,Movies,Movies,Expense,0.0,700.0,Cash,Monday,118770.0
+21-09-2023,Fuel,Fuel,Expense,0.0,2900.0,Cash,Wednesday,115870.0
+22-09-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Thursday,114070.0
+23-09-2023,Taxi,Taxi,Expense,0.0,1800.0,Debit Card,Friday,112270.0
+24-09-2023,Groceries,Groceries,Expense,0.0,3000.0,Cash,Saturday,109270.0
+25-09-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,Cash,Sunday,108370.0
+26-09-2023,Groceries,Groceries,Expense,0.0,3000.0,UPI,Monday,105370.0
+26-09-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Monday,104170.0
+26-09-2023,Accessories,Accessories,Expense,0.0,1800.0,Debit Card,Monday,102370.0
+26-09-2023,House Repairs,House Repairs,Expense,0.0,1200.0,Cash,Monday,101170.0
+27-09-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,350.0,Debit Card,Tuesday,100820.0
+27-09-2023,Online Shopping,Online Shopping,Expense,0.0,3000.0,UPI,Tuesday,97820.0
+28-09-2023,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Cash,Wednesday,96620.0
+28-09-2023,Taxi,Taxi,Expense,0.0,1800.0,UPI,Wednesday,94820.0
+28-09-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Wednesday,94220.0
+29-09-2023,Gas Bill,Gas Bill,Expense,0.0,550.0,Debit Card,Thursday,93670.0
+29-09-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,UPI,Thursday,86570.0
+30-09-2023,Taxi,Taxi,Expense,0.0,1800.0,UPI,Friday,84770.0
+01-10-2023,Bike Service,Bike Service,Expense,0.0,1200.0,Debit Card,Saturday,83570.0
+01-10-2023,Salary,Salary,Income,72000.0,0.0,UPI,Saturday,155570.0
+01-10-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,Cash,Saturday,154670.0
+03-10-2023,Gas Bill,Gas Bill,Expense,0.0,550.0,UPI,Monday,154120.0
+03-10-2023,Taxi,Taxi,Expense,0.0,1800.0,UPI,Monday,152320.0
+04-10-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Tuesday,151720.0
+05-10-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Cash,Wednesday,151420.0
+05-10-2023,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Wednesday,150220.0
+06-10-2023,Internet Bill,Internet Bill,Expense,0.0,700.0,Cash,Thursday,149520.0
+07-10-2023,Clothes,Clothes,Expense,0.0,2400.0,UPI,Friday,147120.0
+08-10-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Saturday,146520.0
+08-10-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Cash,Saturday,145920.0
+10-10-2023,Rent,Rent,Expense,0.0,8800.0,Cash,Monday,137120.0
+11-10-2023,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Tuesday,135320.0
+12-10-2023,Groceries,Groceries,Expense,0.0,3000.0,UPI,Wednesday,132320.0
+14-10-2023,Fuel,Fuel,Expense,0.0,2900.0,Debit Card,Friday,129420.0
+14-10-2023,Accessories,Accessories,Expense,0.0,1800.0,UPI,Friday,127620.0
+14-10-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,UPI,Friday,126870.0
+15-10-2023,Electricity Bill,Electricity Bill,Expense,0.0,850.0,Debit Card,Saturday,126020.0
+16-10-2023,Concerts,Concerts,Expense,0.0,1500.0,Cash,Sunday,124520.0
+17-10-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Cash,Monday,123920.0
+17-10-2023,Car EMI,Car EMI,Expense,0.0,4700.0,Debit Card,Monday,119220.0
+18-10-2023,Electronics,Electronics,Expense,0.0,4700.0,Debit Card,Tuesday,114520.0
+20-10-2023,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Thursday,112120.0
+20-10-2023,Movies,Movies,Expense,0.0,700.0,UPI,Thursday,111420.0
+20-10-2023,Online Shopping,Online Shopping,Expense,0.0,3000.0,Debit Card,Thursday,108420.0
+21-10-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Friday,107220.0
+23-10-2023,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Sunday,106020.0
+25-10-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Debit Card,Tuesday,98920.0
+26-10-2023,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Wednesday,97720.0
+26-10-2023,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Debit Card,Wednesday,96520.0
+27-10-2023,Water Bill,Water Bill,Expense,0.0,400.0,Cash,Thursday,96120.0
+27-10-2023,Taxi,Taxi,Expense,0.0,1800.0,Cash,Thursday,94320.0
+29-10-2023,Software Subscription,Software Subscription,Expense,0.0,650.0,Cash,Saturday,93670.0
+29-10-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,UPI,Saturday,93170.0
+30-10-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,950.0,UPI,Sunday,92220.0
+01-11-2023,Salary,Salary,Income,72000.0,0.0,UPI,Tuesday,164220.0
+02-11-2023,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,UPI,Wednesday,163020.0
+02-11-2023,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Wednesday,160020.0
+03-11-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,Debit Card,Thursday,159270.0
+03-11-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Thursday,158670.0
+05-11-2023,Electricity Bill,Electricity Bill,Expense,0.0,1900.0,Cash,Saturday,156770.0
+05-11-2023,Movies,Movies,Expense,0.0,700.0,UPI,Saturday,156070.0
+06-11-2023,Accessories,Accessories,Expense,0.0,1900.0,UPI,Sunday,154170.0
+06-11-2023,Clothes,Clothes,Expense,0.0,2400.0,Debit Card,Sunday,151770.0
+08-11-2023,Water Bill,Water Bill,Expense,0.0,400.0,Debit Card,Tuesday,151370.0
+08-11-2023,Internet Bill,Internet Bill,Expense,0.0,900.0,Debit Card,Tuesday,150470.0
+10-11-2023,Fuel,Fuel,Expense,0.0,2900.0,UPI,Thursday,147570.0
+11-11-2023,Taxi,Taxi,Expense,0.0,1700.0,Cash,Friday,145870.0
+11-11-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,Debit Card,Friday,144970.0
+12-11-2023,Fast Food,Fast Food,Expense,0.0,1200.0,UPI,Saturday,143770.0
+12-11-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,Debit Card,Saturday,143270.0
+12-11-2023,Restaurant,Restaurant,Expense,0.0,2800.0,Cash,Saturday,140470.0
+13-11-2023,Groceries,Groceries,Expense,0.0,3200.0,Cash,Sunday,137270.0
+14-11-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,350.0,UPI,Monday,136920.0
+14-11-2023,Software Subscription,Software Subscription,Expense,0.0,1050.0,UPI,Monday,135870.0
+15-11-2023,Electronics,Electronics,Expense,0.0,4700.0,Debit Card,Tuesday,131170.0
+16-11-2023,Online Shopping,Online Shopping,Expense,0.0,4000.0,Debit Card,Wednesday,127170.0
+17-11-2023,Insurance,Insurance,Expense,0.0,2400.0,Cash,Thursday,124770.0
+18-11-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,500.0,Debit Card,Friday,124270.0
+18-11-2023,Groceries,Groceries,Expense,0.0,2500.0,UPI,Friday,121770.0
+20-11-2023,Gas Bill,Gas Bill,Expense,0.0,550.0,Cash,Sunday,121220.0
+21-11-2023,House Repairs,House Repairs,Expense,0.0,1200.0,UPI,Monday,120020.0
+22-11-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,850.0,Debit Card,Tuesday,119170.0
+23-11-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,560.0,Cash,Wednesday,118610.0
+24-11-2023,Concerts,Concerts,Expense,0.0,1600.0,Cash,Thursday,117010.0
+24-11-2023,Rent,Rent,Expense,0.0,8800.0,Debit Card,Thursday,108210.0
+24-11-2023,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Thursday,106410.0
+25-11-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Debit Card,Friday,99310.0
+26-11-2023,Fast Food,Fast Food,Expense,0.0,1000.0,UPI,Saturday,98310.0
+27-11-2023,Bike Service,Bike Service,Expense,0.0,4200.0,Debit Card,Sunday,94110.0
+01-12-2023,Salary,Salary,Income,72000.0,0.0,UPI,Thursday,166110.0
+03-12-2023,Accessories,Accessories,Expense,0.0,1800.0,Debit Card,Saturday,164310.0
+04-12-2023,Fast Food,Fast Food,Expense,0.0,1600.0,UPI,Sunday,162710.0
+04-12-2023,Mobile Accessories,Mobile Accessories,Expense,0.0,930.0,Cash,Sunday,161780.0
+05-12-2023,Fuel,Fuel,Expense,0.0,2900.0,Debit Card,Monday,158880.0
+05-12-2023,Taxi,Taxi,Expense,0.0,1800.0,UPI,Monday,157080.0
+06-12-2023,Concerts,Concerts,Expense,0.0,1900.0,Debit Card,Tuesday,155180.0
+07-12-2023,Mobile Recharge,Mobile Recharge,Expense,0.0,300.0,Cash,Wednesday,154880.0
+08-12-2023,Insurance,Insurance,Expense,0.0,2400.0,Debit Card,Thursday,152480.0
+09-12-2023,Internet Bill,Internet Bill,Expense,0.0,700.0,UPI,Friday,151780.0
+09-12-2023,Groceries,Groceries,Expense,0.0,3040.0,UPI,Friday,148740.0
+09-12-2023,Electronics,Electronics,Expense,0.0,4700.0,Debit Card,Friday,144040.0
+10-12-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Cash,Saturday,142840.0
+10-12-2023,Rent,Rent,Expense,0.0,8800.0,Cash,Saturday,134040.0
+11-12-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,660.0,UPI,Sunday,133380.0
+11-12-2023,Software Subscription,Software Subscription,Expense,0.0,650.0,Cash,Sunday,132730.0
+11-12-2023,Fast Food,Fast Food,Expense,0.0,1200.0,Debit Card,Sunday,131530.0
+12-12-2023,Groceries,Groceries,Expense,0.0,3000.0,Debit Card,Monday,128530.0
+12-12-2023,Gas Bill,Gas Bill,Expense,0.0,590.0,UPI,Monday,127940.0
+13-12-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Cash,Tuesday,127340.0
+14-12-2023,Broadband Bill,Broadband Bill,Expense,0.0,750.0,Cash,Wednesday,126590.0
+14-12-2023,Restaurant,Restaurant,Expense,0.0,1800.0,Debit Card,Wednesday,124790.0
+14-12-2023,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Wednesday,122990.0
+15-12-2023,House Repairs,House Repairs,Expense,0.0,2020.0,Debit Card,Thursday,120970.0
+15-12-2023,Movies,Movies,Expense,0.0,1700.0,Cash,Thursday,119270.0
+15-12-2023,Streaming Services,Streaming Services,Expense,0.0,500.0,UPI,Thursday,118770.0
+15-12-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,660.0,Cash,Thursday,118110.0
+16-12-2023,Tea & Snacks,Tea & Snacks,Expense,0.0,600.0,Debit Card,Friday,117510.0
+17-12-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,Debit Card,Saturday,116910.0
+20-12-2023,Clothes,Clothes,Expense,0.0,2400.0,Cash,Tuesday,114510.0
+22-12-2023,Metro Card Recharge,Metro Card Recharge,Expense,0.0,1200.0,Cash,Thursday,113310.0
+22-12-2023,Auto Rickshaw,Auto Rickshaw,Expense,0.0,600.0,UPI,Thursday,112710.0
+23-12-2023,Home Loan EMI,Home Loan EMI,Expense,0.0,7100.0,Cash,Friday,105610.0
+24-12-2023,Gym Membership,Gym Membership,Expense,0.0,900.0,Cash,Saturday,104710.0
+25-12-2023,Electricity Bill,Electricity Bill,Expense,0.0,1850.0,Debit Card,Sunday,102860.0
+26-12-2023,Online Shopping,Online Shopping,Expense,0.0,3000.0,UPI,Monday,99860.0
+27-12-2023,Restaurant,Restaurant,Expense,0.0,1800.0,UPI,Tuesday,98060.0
+28-12-2023,Water Bill,Water Bill,Expense,0.0,700.0,Debit Card,Wednesday,97360.0
