@@ -3,10 +3,15 @@ Smart, secure, and self-learning — your money’s new best friend.
 
 # Transformer-Based Diffusion Anomaly Detection for Personal Finance
 
-A hybrid anomaly detection pipeline that combines **Graph Neural Networks**, **Transformer Encoders**, and **Diffusion Models** to identify abnormal financial transactions from tabular time-series data. Built using **PyTorch**, **PyTorch Geometric**, and **scikit-learn**.
+A hybrid anomaly detection pipeline combining **Graph Neural Networks**, **Transformer Encoders**, and **Diffusion Models** to flag abnormal financial transactions from tabular time-series data. Built with **PyTorch**, **PyTorch Geometric**, and **scikit-learn**, wrapped in an interactive **Streamlit app**.
 
 ---
+1. **Clone the repo:**
 
+```bash
+git clone https://github.com/Keerti2504/AI-Powered-Finance-Tracker.git
+cd AI-Powered-Finance-Tracker
+```
 ## 📦 Installation
 
 ```bash
@@ -17,7 +22,12 @@ pip install torch-scatter torch-sparse torch-cluster torch-spline-conv -f https:
 pip install torch-geometric
 
 # Other dependencies
-pip install pandas scikit-learn matplotlib seaborn
+pip install streamlit pandas scikit-learn matplotlib seaborn
+
+#run the app
+streamlit run app.py
+
+#Open the URL shown in your terminal (usually http://localhost:8501) to interact with the anomaly detection dashboard.
 ```
 
 ---
@@ -74,8 +84,8 @@ pip install pandas scikit-learn matplotlib seaborn
  [  0  30]]
 ```
 
-|        | Predicted Normal | Predicted Anomaly |
-|--------|------------------|-------------------|
+|                | Predicted Normal | Predicted Anomaly |
+|----------------|------------------|-------------------|
 | Actual Normal  | 811              | 13                |
 | Actual Anomaly | 0                | 30                |
 
