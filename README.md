@@ -3,7 +3,7 @@ Smart, secure, and self-learning — your money’s new best friend.
 
 # Transformer-Based Diffusion Anomaly Detection for Personal Finance
 
-A hybrid anomaly detection pipeline combining **Graph Neural Networks**, **Transformer Encoders**, and **Diffusion Models** to flag abnormal financial transactions from tabular time-series data. Built with **PyTorch**, **PyTorch Geometric**, and **scikit-learn**, wrapped in an interactive **Streamlit app**.
+A hybrid anomaly detection pipeline combining **Graph Neural Networks**, **Transformer Encoders**, and **Diffusion Models** to flag abnormal financial transactions from tabular time-series data. Built with **PyTorch**, **PyTorch Geometric**, and **scikit-learn**, wrapped in an interactive **Streamlit app** for seamless anomaly detection on your own data.
 
 ---
 1. **Clone the repo:**
@@ -110,6 +110,14 @@ streamlit run app.py
 - Extend to real-time detection pipelines
 - Adaptive thresholding for real-time anomaly sensitivity
 - Integrate Explainable AI (SHAP) to justify flagged anomalies
+
+## Output 
+<img width="994" height="822" alt="image" src="https://github.com/user-attachments/assets/979ffd69-d9b3-4365-abc0-c7a621145f43" />
+
+<img width="922" height="773" alt="image" src="https://github.com/user-attachments/assets/c16376f0-9a95-4e3a-8477-806572ecbb45" />
+
+
+
 
 
 
