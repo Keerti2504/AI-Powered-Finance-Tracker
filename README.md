@@ -79,10 +79,7 @@ streamlit run app.py
 
 **Confusion Matrix:**
 
-```
-[[811  13]
- [  0  30]]
-```
+
 
 |                | Predicted Normal | Predicted Anomaly |
 |----------------|------------------|-------------------|
@@ -96,12 +93,12 @@ streamlit run app.py
 - Results stored in: `T-Diff_anomaly_results.csv`
 - Sample output:
 
-```csv
-| Date       | Category | Expense | Anomaly Score |
+
+| Date       | Category | Expense | Anomaly Score  |
 |------------|----------|---------|----------------|
 | 2022-01-12 | Travel   | 0.976   | 0.1781         |
 | 2023-04-08 | Shopping | 0.842   | 0.1935         |
-```
+
 
 ---
 
